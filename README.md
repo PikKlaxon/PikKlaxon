@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pik_Klaxon
-- 🐧 My distributions: Arch, Fedora + FreeBSD
-- 🔳 Window managers: DWM, BSPWM, I3
-- 💻 Device: Netbook ASUS Eee PC 1215N
+- 🐧 My distributions: Arch, Fedora, FreeBSD and OpenSUSE
+- 🔳 Window managers: DWM, BSPWM, I3 and Gnome
+- 💻 Device 1: Netbook ASUS Eee PC 1215N
+- 💻 Device 2: Cpu: i5 9400f/Gpu: gtx 1650/Ram: 16gb
 - ☢️ Fun fact: A Black Stalker appeared in the Zone. 
 He used to go to the camp at night and there he would 
 stick his hand into the tent and say: "Have some water!" 
